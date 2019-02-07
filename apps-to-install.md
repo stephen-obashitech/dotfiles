@@ -5,7 +5,7 @@ Docker | Docker website
 EtreCheck | app store
 Firefox | firefox website
 Gimp | gimp website
-Goland | Jetbrains Toolbox
+Goland (+vim plugin) | Jetbrains Toolbox
 iTerm | Download
 Jetbrains Toolbox | Jetbrains Website
 pgAdmin | pgAdmin website
